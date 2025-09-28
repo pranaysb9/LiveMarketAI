@@ -1,0 +1,26 @@
+{
+    "name": "livemarket-ai-frontend",
+    "version": "1.0.0",
+    "description": "Real-time FinTech RAG System Frontend",
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "lint": "next lint"
+    },
+    "dependencies": {
+        "next": "14.0.3",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "axios": "^1.6.0",
+        "recharts": "^2.8.0",
+        "socket.io-client": "^4.7.4"
+    },
+    "devDependencies": {
+        "autoprefixer": "^10.0.1",
+        "eslint": "^8.53.0",
+        "eslint-config-next": "14.0.3",
+        "postcss": "^8.4.31",
+        "tailwindcss": "^3.3.5"
+    }
+}
