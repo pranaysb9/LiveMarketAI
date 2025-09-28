@@ -1,5 +1,8 @@
 # LiveMarket AI - Real-Time FinTech RAG System
+DEMO VIDEO https://drive.google.com/file/d/1B17y3lqEn5I2sa0BxIAidR3KYVtv99xj/view?usp=drive_link
 COuld not add the whole repo in proper structure due to size limitations but to recreate this repo please FOllow this structure
+
+
 <img width="82" height="311" alt="image" src="https://github.com/user-attachments/assets/fe006cf0-3cfe-43b4-b291-1b515ca8f117" />
 
 
